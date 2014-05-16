@@ -1,0 +1,16 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_driver: pdo_mysql
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: jobeet
+    database_user: root
+    database_password: Hello2014
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    locale: en
+    secret: ThisTokenIsNotSoSecretChangeIt
+    max_jobs_on_homepage: 10
+    max_jobs_on_category: 20
